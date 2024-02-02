@@ -11,6 +11,7 @@ function no(){
     document.getElementById('btnYes').style.visibility='hidden';
     document.getElementById('btnNo').style.visibility='hidden';
     document.getElementById('container-hidden').style.visibility='visible';
+    document.getElementById('btnTry').style.width='40%';
 }
 
 function tryAgain(){
